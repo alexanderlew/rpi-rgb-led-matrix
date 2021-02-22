@@ -7,8 +7,8 @@
   and the SetImage method.
   ------------------------------------------------------------------------*/
 
-#include <python3.7/Python.h>
-#include <python3.7/Imaging.h>
+#include <python2.7/Python.h>
+#include <python2.7/Imaging.h>
 #include "led-matrix.h"
 
 using rgb_matrix::GPIO;
